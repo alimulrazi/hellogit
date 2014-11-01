@@ -1,4 +1,6 @@
 <?php
+
+/* this is the example of inheritance in php */
 class Animal{
  
   public function __construct() {
