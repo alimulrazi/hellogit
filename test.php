@@ -1,4 +1,6 @@
 <?php
+
+/****** Call animal for understand constructor and destruction ******/
 class Animal{
  
   public function __construct() {
